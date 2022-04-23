@@ -5,7 +5,6 @@ exports.createPages = ({ graphql, actions }) => {
   return new Promise((resolve, reject) => {
     graphql(`
       {
-        query MyQuery {
           allContentfulBlogPost {
             edges {
               node {
