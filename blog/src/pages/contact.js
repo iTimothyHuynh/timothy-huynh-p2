@@ -11,6 +11,7 @@ const Contact = ({ data }) => {
         <Layout>
             <Seo title="Home" />
             <h1>Contact Us</h1>
+            <h2>How Can We Help?</h2>
             <p>Please send all inquiries to: </p>
             <div>{company}</div>
             <div>{`C/O ${name}`}</div>
