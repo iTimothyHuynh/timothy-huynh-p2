@@ -12,7 +12,7 @@ const About = ({ data }) => {
             <Seo title="Home" />
             <h1>About Us</h1>
             <p>{`The History of Final Fantasy was brought to you by ${name}.`}</p>
-            <p>{`Have some questions? We'd love to hear from you! To get in touch with us here at ${company} please click "Contact" above`}</p>
+            <p>{`Have some questions? We'd love to hear from you! To get in touch with us here at ${company} please click the "Contact" page above`}</p>
             <div style={{ maxWidth: `300px`, marginBottom: `1.45rem`}}>
             <StaticImage
                 src="../images/gatsby-astronaut.png"

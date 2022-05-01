@@ -5,7 +5,7 @@ require('dotenv').config({
 module.exports = {
   siteMetadata: {
     title: `The History Of Final Fantasy`,
-    description: `ITDEV-164 Project 2 Gatsby Blog`,
+    description: `ITDEV-164 Project 2 Final Fantasy Gatsby Blog`,
     author: `Timothy Huynh`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
     contact: {
